@@ -1,3 +1,8 @@
+# Install angular-cli using below command
+    command - >  npm install –g angular-cli
+# first delete the folder node_modules/@angular
+# Rename the folder
+  node_moduless as node_modules 
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
